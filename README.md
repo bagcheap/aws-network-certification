@@ -34,6 +34,7 @@ Materials for AWS Certified Advanced Network Specialty Certification Crash Cours
 * [Amazon EC2 security groups for Linux instances: Connection tracking](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html#security-group-connection-tracking)
 * [Building a Scalable and Secure Multi-VPC AWS Network Infrastructure (PDF - 2020)](https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf)
 * [Security Hub Implementation](https://aws.amazon.com/blogs/security/how-to-deploy-the-aws-solution-for-security-hub-automated-response-and-remediation/)
+* [Cloud Formation Template for Security Hub](https://github.com/rewindio/aws-security-hub-CIS-metrics/)
 
 ## Layer 2
 
